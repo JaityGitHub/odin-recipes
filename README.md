@@ -1,1 +1,2 @@
 # odin-recipes
+Current project is to make a website which it'll be showing three different links to three pages, each showing different food recipes. Skills to demonstrate: Basic skills using Git and GitHub, create a repository and clone it in my local machine, commit while buiding this project, fill all the pages with the usual boilerplate HTML, adding images, and making lists (unordered and ordered).
